@@ -83,9 +83,6 @@ out
 dist
 .output
 
-# NitroJS
-.nitro/
-
 # Gatsby files
 .cache/
 # Comment in the public line in if your project uses Gatsby and not Next.js
@@ -148,10 +145,5 @@ vite.config.ts.timestamp-*
 # Astro generated types
 .astro/
 
-# Turbo Repo (https://turborepo.dev/)
+# Turbo Repo
 .turbo
-
-# Nx (https://nx.dev/)
-.nx/cache
-.nx/workspace-data
-.nx/migrate-runs
